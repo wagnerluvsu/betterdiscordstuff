@@ -1,0 +1,2 @@
+# betterdiscordstuff
+things for betterdiscord
